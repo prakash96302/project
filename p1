@@ -1,5 +1,9 @@
 mgmt_ip:10.0.0.1
+<<<<<<< HEAD
 how_contoller:10.0.0.3
+=======
+jk_id:10.3.4.5
+>>>>>>> jk
 vlans:
   red:
    id:10
