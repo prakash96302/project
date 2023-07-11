@@ -1,4 +1,5 @@
 mgmt_ip:10.0.0.1
+jk_id:10.3.4.5
 vlans:
   red:
    id:10
