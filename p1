@@ -1,4 +1,5 @@
 mgmt_ip:10.0.0.1
+how_contoller:10.0.0.3
 vlans:
   red:
    id:10
